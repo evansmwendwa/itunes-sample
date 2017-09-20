@@ -16,3 +16,15 @@ git clone https://github.com/evansmwendwa/itunes-sample.git
 cd itunes-sample
 ```
 Double click `index.html` to preview in your browser. Open directory contents in Sublime Editor to continue editing
+
+## References
+
+https://en.wikipedia.org/wiki/Representational_state_transfer
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+
+https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
