@@ -25,6 +25,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 
 https://en.wikipedia.org/wiki/Representational_state_transfer
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 
 
