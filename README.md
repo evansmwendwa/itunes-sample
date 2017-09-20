@@ -19,12 +19,15 @@ Double click `index.html` to preview in your browser. Open directory contents in
 
 ## References
 
-https://en.wikipedia.org/wiki/Representational_state_transfer
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 
+https://en.wikipedia.org/wiki/Representational_state_transfer
+
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 
 https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
